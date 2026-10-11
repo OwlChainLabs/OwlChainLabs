@@ -1,6 +1,6 @@
 # 🦉 owl chain labs
 
-open source tools for solana traders.
+open source tools for solana traders.  
 built at night. no private keys. ever.
 
 ### projects
