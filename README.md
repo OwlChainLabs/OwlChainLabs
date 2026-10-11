@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🦉 owl chain labs
 
-<!--
-**OwlChainLabs/OwlChainLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+open source tools for solana traders.
+built at night. no private keys. ever.
 
-Here are some ideas to get you started:
+### projects
+- **wallet-roast** · ai roasts your solana wallet *(coming soon)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### principles
+- 100% open source, read every line
+- we only use public wallet addresses
+- we will never ask for your private key or seed phrase
+
+### follow
+[x.com/OwlChainLabs](https://x.com/OwlChainLabs)
