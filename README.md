@@ -4,7 +4,7 @@ open source tools for solana traders.
 built at night. no private keys. ever.
 
 ### projects
-- **wallet-roast** · ai roasts your solana wallet *(coming soon)*
+- **[wallet-roast](https://github.com/OwlChainLabs/wallet-roast)** · ai roasts your solana wallet · [try it](https://roast.owlchainlabs.xyz)
 
 ### principles
 - 100% open source, read every line
