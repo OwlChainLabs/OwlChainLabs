@@ -13,6 +13,16 @@ built at night by a solo dev. no private keys. ever.
 
 ---
 
+<div align="center">
+
+<a href="https://roast.owlchainlabs.xyz"><img src="./assets/wallet-roast.gif" alt="wallet-roast demo" width="720"/></a>
+
+<sub>wallet-roast in action (sample wallet)</sub>
+
+</div>
+
+---
+
 ### 🛠 tools
 
 | tool | what it does | status |
