@@ -34,6 +34,8 @@ built at night by a solo dev. no private keys. ever.
 | tool | what it does | status |
 |:--|:--|:--|
 | 🔥 **[wallet-roast](https://github.com/OwlChainLabs/wallet-roast)** | paste a solana wallet, get roasted by ai | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://roast.owlchainlabs.xyz) |
+| ⚡ **[speed-test](https://github.com/OwlChainLabs/speed-test)** | are you faster than a 200ms solana block? | [![new](https://img.shields.io/badge/new-14F195?style=flat-square&labelColor=000000)](https://speed.owlchainlabs.xyz) |
+| 🎯 **[breakpoint-bingo](https://github.com/OwlChainLabs/breakpoint-bingo)** | your bingo card for solana breakpoint, tag your frens | [![new](https://img.shields.io/badge/new-14F195?style=flat-square&labelColor=000000)](https://bingo.owlchainlabs.xyz) |
 | ⚔️ **[terminal-wars](https://github.com/OwlChainLabs/terminal-wars)** | which solana trading terminal makes the most money | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://wars.owlchainlabs.xyz) |
 | 🧻 **[paper-hands](https://github.com/OwlChainLabs/paper-hands)** | what the coins you sold would be worth today | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://paperhands.owlchainlabs.xyz) |
 | 🎁 **solana wrapped** | your trading year as shareable story cards | ![december](https://img.shields.io/badge/december-555555?style=flat-square&labelColor=000000) |
