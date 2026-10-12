@@ -1,15 +1,39 @@
+<div align="center">
+
 # 🦉 owl chain labs
 
-open source tools for solana traders.  
-built at night. no private keys. ever.
+open source tools for solana traders.<br>
+built at night by a solo dev. no private keys. ever.
 
-### projects
-- **[wallet-roast](https://github.com/OwlChainLabs/wallet-roast)** · ai roasts your solana wallet · [try it](https://roast.owlchainlabs.xyz)
+[![website](https://img.shields.io/badge/owlchainlabs.xyz-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://owlchainlabs.xyz)
+[![x](https://img.shields.io/badge/@OwlChainLabs-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OwlChainLabs)
+[![solana](https://img.shields.io/badge/solana_only-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
 
-### principles
+</div>
+
+---
+
+### 🛠 tools
+
+| tool | what it does | status |
+|:--|:--|:--|
+| 🔥 **[wallet-roast](https://github.com/OwlChainLabs/wallet-roast)** | paste a solana wallet, get roasted by ai | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://roast.owlchainlabs.xyz) |
+| ⚔️ **[terminal-wars](https://github.com/OwlChainLabs/terminal-wars)** | which solana trading terminal makes the most money | ![building](https://img.shields.io/badge/building-F7B500?style=flat-square&labelColor=000000) |
+| 🧻 **paper hands calculator** | how much you lost by selling too early | ![soon](https://img.shields.io/badge/soon-555555?style=flat-square&labelColor=000000) |
+| 🎁 **solana wrapped** | your trading year as shareable story cards | ![december](https://img.shields.io/badge/december-555555?style=flat-square&labelColor=000000) |
+
+---
+
+### 🔒 principles
+
 - 100% open source, read every line
 - we only use public wallet addresses
 - we will never ask for your private key or seed phrase
 
-### follow
-[x.com/OwlChainLabs](https://x.com/OwlChainLabs)
+---
+
+<div align="center">
+
+new tool every few weeks. follow on [x](https://x.com/OwlChainLabs) to catch the next drop.
+
+</div>
