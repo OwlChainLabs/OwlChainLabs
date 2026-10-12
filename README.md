@@ -25,6 +25,24 @@ built at night by a solo dev. no private keys. ever.
 
 <sub>paper hands calculator in action (sample wallet)</sub>
 
+<br><br>
+
+<a href="https://wars.owlchainlabs.xyz"><img src="./assets/terminal-wars.gif" alt="terminal-wars demo" width="720"/></a>
+
+<sub>terminal wars, daily revenue leaderboard</sub>
+
+<br><br>
+
+<a href="https://speed.owlchainlabs.xyz"><img src="./assets/speed-test.gif" alt="speed-test demo" width="720"/></a>
+
+<sub>faster than solana? reaction test vs a live solana block</sub>
+
+<br><br>
+
+<a href="https://bingo.owlchainlabs.xyz"><img src="./assets/breakpoint-bingo.gif" alt="breakpoint-bingo demo" width="720"/></a>
+
+<sub>breakpoint bingo, your own card for solana breakpoint</sub>
+
 </div>
 
 ---
