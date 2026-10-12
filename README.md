@@ -19,6 +19,12 @@ built at night by a solo dev. no private keys. ever.
 
 <sub>wallet-roast in action (sample wallet)</sub>
 
+<br><br>
+
+<a href="https://paperhands.owlchainlabs.xyz"><img src="./assets/paper-hands.gif" alt="paper-hands demo" width="720"/></a>
+
+<sub>paper hands calculator in action (sample wallet)</sub>
+
 </div>
 
 ---
@@ -29,7 +35,7 @@ built at night by a solo dev. no private keys. ever.
 |:--|:--|:--|
 | 🔥 **[wallet-roast](https://github.com/OwlChainLabs/wallet-roast)** | paste a solana wallet, get roasted by ai | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://roast.owlchainlabs.xyz) |
 | ⚔️ **[terminal-wars](https://github.com/OwlChainLabs/terminal-wars)** | which solana trading terminal makes the most money | ![building](https://img.shields.io/badge/building-F7B500?style=flat-square&labelColor=000000) |
-| 🧻 **paper hands calculator** | how much you lost by selling too early | ![soon](https://img.shields.io/badge/soon-555555?style=flat-square&labelColor=000000) |
+| 🧻 **[paper-hands](https://github.com/OwlChainLabs/paper-hands)** | what the coins you sold would be worth today | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://paperhands.owlchainlabs.xyz) |
 | 🎁 **solana wrapped** | your trading year as shareable story cards | ![december](https://img.shields.io/badge/december-555555?style=flat-square&labelColor=000000) |
 
 ---
