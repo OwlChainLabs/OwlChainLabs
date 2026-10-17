@@ -15,6 +15,18 @@ built at night by a solo dev. no private keys. ever.
 
 <div align="center">
 
+<a href="https://rekt.owlchainlabs.xyz"><img src="./assets/rekt-radio.gif" alt="rekt-radio demo" width="720"/></a>
+
+<sub>rekt radio, 24h of liquidations played as a track (data by liquidate.fun)</sub>
+
+<br><br>
+
+<a href="https://vinyl.owlchainlabs.xyz"><img src="./assets/wallet-vinyl.gif" alt="wallet-vinyl demo" width="720"/></a>
+
+<sub>wallet vinyl, any terminal's volume or your trades pressed on a record</sub>
+
+<br><br>
+
 <a href="https://roast.owlchainlabs.xyz"><img src="./assets/wallet-roast.gif" alt="wallet-roast demo" width="720"/></a>
 
 <sub>wallet-roast in action (sample wallet)</sub>
@@ -51,9 +63,11 @@ built at night by a solo dev. no private keys. ever.
 
 | tool | what it does | status |
 |:--|:--|:--|
+| 📻 **[rekt-radio](https://github.com/OwlChainLabs/rekt-radio)** | hear 24h of liquidations as a track, whales drop the bass | [![new](https://img.shields.io/badge/new-14F195?style=flat-square&labelColor=000000)](https://rekt.owlchainlabs.xyz) |
+| 💿 **[wallet-vinyl](https://github.com/OwlChainLabs/wallet-vinyl)** | your trades or a terminal's volume pressed on a vinyl you can play | [![new](https://img.shields.io/badge/new-14F195?style=flat-square&labelColor=000000)](https://vinyl.owlchainlabs.xyz) |
 | 🔥 **[wallet-roast](https://github.com/OwlChainLabs/wallet-roast)** | paste a solana wallet, get roasted by ai | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://roast.owlchainlabs.xyz) |
-| ⚡ **[speed-test](https://github.com/OwlChainLabs/speed-test)** | are you faster than a 200ms solana block? | [![new](https://img.shields.io/badge/new-14F195?style=flat-square&labelColor=000000)](https://speed.owlchainlabs.xyz) |
-| 🎯 **[breakpoint-bingo](https://github.com/OwlChainLabs/breakpoint-bingo)** | your bingo card for solana breakpoint, tag your frens | [![new](https://img.shields.io/badge/new-14F195?style=flat-square&labelColor=000000)](https://bingo.owlchainlabs.xyz) |
+| ⚡ **[speed-test](https://github.com/OwlChainLabs/speed-test)** | are you faster than a 200ms solana block? | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://speed.owlchainlabs.xyz) |
+| 🎯 **[breakpoint-bingo](https://github.com/OwlChainLabs/breakpoint-bingo)** | your bingo card for solana breakpoint, tag your frens | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://bingo.owlchainlabs.xyz) |
 | ⚔️ **[terminal-wars](https://github.com/OwlChainLabs/terminal-wars)** | which solana trading terminal makes the most money | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://wars.owlchainlabs.xyz) |
 | 🧻 **[paper-hands](https://github.com/OwlChainLabs/paper-hands)** | what the coins you sold would be worth today | [![live](https://img.shields.io/badge/live-14F195?style=flat-square&labelColor=000000)](https://paperhands.owlchainlabs.xyz) |
 | 🎁 **solana wrapped** | your trading year as shareable story cards | ![december](https://img.shields.io/badge/december-555555?style=flat-square&labelColor=000000) |
